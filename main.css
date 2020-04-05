@@ -14,6 +14,8 @@
             font-size: 64px; 
             color:blueviolet;
             text-align: center;
+            margin-left: 28px;
+            margin-right: 28px;
         }
         div h6 {
             font-family: Helvetica, Arial, sans-serif;
@@ -24,4 +26,5 @@
             color: #232323;
             margin-top: 8px;
             margin-bottom: 0px;
+            text-align: left;
         }
