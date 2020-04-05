@@ -1,0 +1,27 @@
+        body {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        div {
+            border: #e6e6e6 1px solid;
+            width: 120px;
+            padding: 8px 16px;
+            border-radius: 8px;
+            margin: 12px;
+        }
+        i {
+            font-size: 64px; 
+            color:blueviolet;
+            text-align: center;
+        }
+        div h6 {
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 16px;
+            text-decoration: none;
+            color: #232323;
+            margin-top: 8px;
+            margin-bottom: 0px;
+        }
