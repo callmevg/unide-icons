@@ -16,7 +16,10 @@ body {
 }
 i {
     font-size: 64px; 
-    color:blueviolet;
+/*     color:blueviolet; */
+    background: -webkit-linear-gradient(#a7d16d, #58b1cf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-left: 28px;
 }
 div h6 {
