@@ -16,13 +16,13 @@ body {
 }
 i {
     font-size: 64px; 
-/*     color:blueviolet; */
-    background: -webkit-linear-gradient(#17b194, #3b6bb4);
+    color:#545454;
+/*     background: -webkit-linear-gradient(#17b194, #3b6bb4);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; */
     margin-left: 28px;
 }
-div i h6 {
+div h6 {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-style: normal;
