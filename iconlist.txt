@@ -149,3 +149,10 @@ icon-urban-design
 icon-user-bold
 icon-user
 icon-videography
+
+icon-person
+icon-open-in-new-tab-bold
+icon-open-in-new-tab
+icon-repeat
+icon-money
+icon-no-money
