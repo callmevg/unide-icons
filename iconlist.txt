@@ -60,6 +60,7 @@ icon-block-bold
 icon-branding-design
 icon-broken-media
 icon-business
+icon-business-fill
 icon-cart
 icon-certificate
 icon-classroom
@@ -78,6 +79,7 @@ icon-deadline
 icon-deadline-close
 icon-delete
 icon-designer
+icon-designer-fill
 icon-digital-arts
 icon-discipline
 icon-discussion
@@ -101,6 +103,7 @@ icon-image
 icon-image-large
 icon-info
 icon-institution
+icon-institution-fill
 icon-jewellery-design
 icon-legacy
 icon-license
@@ -122,6 +125,7 @@ icon-organisation
 icon-packaging-design
 icon-pass
 icon-person
+icon-person-fill
 icon-plus-circle
 icon-plus-circle-fill
 icon-post
@@ -137,7 +141,11 @@ icon-remove
 icon-repeat
 icon-search
 icon-settings
+icon-shield
+icon-shield-bold
+icon-shield-fill
 icon-sort
+icon-sort-bold
 icon-tag
 icon-tag-set
 icon-team
@@ -156,11 +164,5 @@ icon-user
 icon-user-bold
 icon-videography
 
-icon-designer-fill
-icon-person-fill
-icon-shield
-icon-institution-fill
-icon-shield-bold
-icon-business-fill
-icon-shield-fill
-icon-sort-bold
+icon-thumbnail
+icon-thumbnail-bold
