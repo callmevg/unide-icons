@@ -152,6 +152,8 @@ icon-team
 icon-team-big
 icon-textbox
 icon-textile-design
+icon-thumbnail
+icon-thumbnail-bold
 icon-typography-design
 icon-unlock
 icon-upload
@@ -164,5 +166,9 @@ icon-user
 icon-user-bold
 icon-videography
 
-icon-thumbnail
-icon-thumbnail-bold
+icon-competition-entry-bold
+icon-cart-bold
+icon-cart-item
+icon-login-bold
+icon-logout-bold
+icon-settings-bold
