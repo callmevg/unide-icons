@@ -32,8 +32,8 @@ div h6 {
 }
 .iconbox:hover {
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    font-weight: 600;
 }
 div h6:hover {
     cursor: pointer;
+    font-weight: 600;
 }
