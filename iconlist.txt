@@ -62,6 +62,8 @@ icon-broken-media
 icon-business
 icon-business-fill
 icon-cart
+icon-cart-bold
+icon-cart-item
 icon-certificate
 icon-classroom
 icon-classroom-bold
@@ -71,6 +73,7 @@ icon-comments
 icon-competition
 icon-competition-bold
 icon-competition-entry
+icon-competition-entry-bold
 icon-copy-writing
 icon-cross
 icon-cross-bold
@@ -114,7 +117,9 @@ icon-list
 icon-location
 icon-lock
 icon-login
+icon-login-bold
 icon-logout
+icon-logout-bold
 icon-message
 icon-money
 icon-motion-design
@@ -141,6 +146,7 @@ icon-remove
 icon-repeat
 icon-search
 icon-settings
+icon-settings-bold
 icon-shield
 icon-shield-bold
 icon-shield-fill
@@ -166,9 +172,6 @@ icon-user
 icon-user-bold
 icon-videography
 
-icon-competition-entry-bold
-icon-cart-bold
-icon-cart-item
-icon-login-bold
-icon-logout-bold
-icon-settings-bold
+icon-lock-bold
+icon-plus-bold
+icon-plus
