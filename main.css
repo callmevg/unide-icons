@@ -11,9 +11,6 @@ body {
     border-radius: 8px;
     margin: 12px;
 }
-.iconbox:hover {
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-}
 i {
     font-size: 64px; 
     color:#545454;
@@ -32,6 +29,10 @@ div h6 {
     margin-top: 8px;
     margin-bottom: 0px;
     text-align: center;
+}
+.iconbox:hover {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    font-weight: 600;
 }
 div h6:hover {
     cursor: pointer;
