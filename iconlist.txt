@@ -116,6 +116,7 @@ icon-like-fill
 icon-list
 icon-location
 icon-lock
+icon-lock-bold
 icon-login
 icon-login-bold
 icon-logout
@@ -131,6 +132,8 @@ icon-packaging-design
 icon-pass
 icon-person
 icon-person-fill
+icon-plus
+icon-plus-bold
 icon-plus-circle
 icon-plus-circle-fill
 icon-post
@@ -172,6 +175,10 @@ icon-user
 icon-user-bold
 icon-videography
 
-icon-lock-bold
-icon-plus-bold
-icon-plus
+icon-unlock-bold
+icon-write
+icon-write-bold
+icon-search-bold
+icon-repeat-bold
+icon-bell-bold
+icon-edit-bold
