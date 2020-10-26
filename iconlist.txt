@@ -34,6 +34,7 @@ logo-youtube
 logo-youtube-fill
 
 icon-3d-design
+icon-add
 icon-adjustment
 icon-animation
 icon-architecture
@@ -55,6 +56,7 @@ icon-arrow-up
 icon-arrow-up-bold
 icon-award
 icon-bell
+icon-bell-bold
 icon-block
 icon-block-bold
 icon-branding-design
@@ -75,6 +77,7 @@ icon-competition-bold
 icon-competition-entry
 icon-competition-entry-bold
 icon-copy-writing
+icon-copyright
 icon-cross
 icon-cross-bold
 icon-culinary-design
@@ -91,6 +94,7 @@ icon-download
 icon-download-cloud
 icon-download-folder
 icon-edit
+icon-edit-bold
 icon-embed
 icon-embed-video
 icon-fashion-design
@@ -109,7 +113,6 @@ icon-institution
 icon-institution-fill
 icon-jewellery-design
 icon-legacy
-icon-license
 icon-like
 icon-like-bold
 icon-like-fill
@@ -134,7 +137,6 @@ icon-person
 icon-person-fill
 icon-plus
 icon-plus-bold
-icon-plus-circle
 icon-plus-circle-fill
 icon-post
 icon-post-bold
@@ -147,7 +149,9 @@ icon-rearrange
 icon-registration
 icon-remove
 icon-repeat
+icon-repeat-bold
 icon-search
+icon-search-bold
 icon-settings
 icon-settings-bold
 icon-shield
@@ -165,6 +169,7 @@ icon-thumbnail
 icon-thumbnail-bold
 icon-typography-design
 icon-unlock
+icon-unlock-bold
 icon-upload
 icon-upload-1
 icon-upload-cloud
@@ -174,11 +179,22 @@ icon-urban-design
 icon-user
 icon-user-bold
 icon-videography
-
-icon-unlock-bold
 icon-write
 icon-write-bold
-icon-search-bold
-icon-repeat-bold
-icon-bell-bold
-icon-edit-bold
+
+icon-add-bold
+icon-copyright-bold
+icon-delete-bold
+icon-expert
+icon-filter-bold
+icon-house-bold
+icon-message-bold
+icon-nine-box-rubik
+icon-nine-box-rubik-fill
+icon-nine-dot-rubik
+icon-nine-dot-rubik-fill
+icon-remove-bold
+icon-three-horizontal-dots
+icon-three-horizontal-dots-fill
+icon-three-vertical-dots
+icon-three-vertical-dots-fill
