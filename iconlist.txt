@@ -35,6 +35,7 @@ logo-youtube-fill
 
 icon-3d-design
 icon-add
+icon-add-bold
 icon-adjustment
 icon-animation
 icon-architecture
@@ -77,12 +78,14 @@ icon-competition-entry
 icon-competition-entry-bold
 icon-copy-writing
 icon-copyright
+icon-copyright-bold
 icon-cross
 icon-cross-bold
 icon-culinary-design
 icon-deadline
 icon-deadline-close
 icon-delete
+icon-delete-bold
 icon-designer
 icon-designer-fill
 icon-digital-arts
@@ -96,8 +99,10 @@ icon-edit
 icon-edit-bold
 icon-embed
 icon-embed-video
+icon-expert
 icon-fashion-design
 icon-filter
+icon-filter-bold
 icon-furniture-design
 icon-game-design
 icon-hamburger
@@ -105,6 +110,7 @@ icon-hamburger-bold
 icon-home
 icon-home-bold
 icon-house
+icon-house-bold
 icon-image
 icon-image-large
 icon-info
@@ -125,8 +131,13 @@ icon-logout
 icon-logout-bold
 icon-media-broken
 icon-message
+icon-message-bold
 icon-money
 icon-motion-design
+icon-nine-box-rubik
+icon-nine-box-rubik-fill
+icon-nine-dot-rubik
+icon-nine-dot-rubik-fill
 icon-no-money
 icon-open-in-new-tab
 icon-open-in-new-tab-bold
@@ -148,6 +159,7 @@ icon-publication-bold
 icon-rearrange
 icon-registration
 icon-remove
+icon-remove-bold
 icon-repeat
 icon-repeat-bold
 icon-search
@@ -165,6 +177,10 @@ icon-team
 icon-team-big
 icon-textbox
 icon-textile-design
+icon-three-horizontal-dots
+icon-three-horizontal-dots-fill
+icon-three-vertical-dots
+icon-three-vertical-dots-fill
 icon-thumbnail
 icon-thumbnail-bold
 icon-typography-design
@@ -182,19 +198,10 @@ icon-videography
 icon-write
 icon-write-bold
 
-icon-add-bold
-icon-copyright-bold
-icon-delete-bold
-icon-expert
-icon-filter-bold
-icon-house-bold
-icon-message-bold
-icon-nine-box-rubik
-icon-nine-box-rubik-fill
-icon-nine-dot-rubik
-icon-nine-dot-rubik-fill
-icon-remove-bold
-icon-three-horizontal-dots
-icon-three-horizontal-dots-fill
-icon-three-vertical-dots
-icon-three-vertical-dots-fill
+icon-arrow-down-fill
+icon-arrow-up-fill
+icon-link
+icon-link-bold
+icon-skill
+icon-tick
+icon-tick-bold
